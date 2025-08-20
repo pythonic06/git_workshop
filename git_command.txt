@@ -1,0 +1,25 @@
+ 6 get-childitem
+   7 get-childitem -force
+   8 git status
+   9 run testing.py
+  10 python testing.py
+  11 python testing.py
+  12 git status
+  13 git add testing.py
+  14 git status
+  15 git commit -m "added testing files g"
+  16 git config --global user.email "rajrahul.0987654@gmail.com"
+  17 git commit -m "added testing files g"
+  18 git status
+  19 rm testing.py
+  20 git status
+  21 git recover testing.py
+  22 git restore testing.py
+    26 git commit -m "added testing files "
+  27 git status
+  28 git remote add origin https://github.com/pythonic06/git_workshop.git
+  29 git remote -v
+  30 git push origin master
+  41 git remote -v
+  42 git remote set-url origin https://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@github.com/pythonic06/git_workshop.git
+  43 git push origin master
