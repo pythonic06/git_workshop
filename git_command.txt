@@ -23,6 +23,6 @@
   41 git remote -v
   42 git remote set-url origin https://@github.com/pythonic06/git_workshop.git
   43 git push origin master
-
+rty
 this is new changes
 
