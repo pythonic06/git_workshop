@@ -21,5 +21,7 @@
   29 git remote -v
   30 git push origin master
   41 git remote -v
-  42 git remote set-url origin https://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@github.com/pythonic06/git_workshop.git
+  42 git remote set-url origin https://@github.com/pythonic06/git_workshop.git
   43 git push origin master
+  new
+  cd..
